@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "694133943501",
+    "firebase_url": "https://isalon-c7e8a.firebaseio.com",
+    "project_id": "isalon-c7e8a",
+    "storage_bucket": "isalon-c7e8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694133943501:android:a0b66968a0f4feaa2d8d84",
+        "android_client_info": {
+          "package_name": "com.isalon.isalonagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694133943501-6v5ognfca2kp8146sla5qbli4gnqdte7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzABGcanDhLFrRzjxpStBC56W8xGbSBsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694133943501-6v5ognfca2kp8146sla5qbli4gnqdte7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694133943501-k9r7j0ajf365iopd4eisvkuua65nu9se.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.isalon.isalonapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694133943501:android:6e01dd692e9bdcd62d8d84",
+        "android_client_info": {
+          "package_name": "com.isalon.isalonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694133943501-6v5ognfca2kp8146sla5qbli4gnqdte7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzABGcanDhLFrRzjxpStBC56W8xGbSBsg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694133943501-6v5ognfca2kp8146sla5qbli4gnqdte7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "694133943501-k9r7j0ajf365iopd4eisvkuua65nu9se.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.isalon.isalonapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

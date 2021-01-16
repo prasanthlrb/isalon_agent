@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>694133943501-bosj4uslrbl3ch2ff0ctah27ih9bts69.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.694133943501-bosj4uslrbl3ch2ff0ctah27ih9bts69</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2wn2gFnr8MjJAIBm92z70NdHj_SAXIFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>694133943501</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.isalon.isalonagent</string>
+	<key>PROJECT_ID</key>
+	<string>isalon-c7e8a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>isalon-c7e8a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:694133943501:ios:3d571a93e1476bf62d8d84</string>
+	<key>DATABASE_URL</key>
+	<string>https://isalon-c7e8a.firebaseio.com</string>
+</dict>
+</plist>
